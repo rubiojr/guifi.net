@@ -18,6 +18,14 @@ Herramientas:
 
 https://guifi.net/es/Distancias
 
+Blogs (poca actividad):
+
+https://guifi.net/en/blog
+
+Microdonaciones:
+
+http://www.teaming.net/guifi-net/invite
+
 ### Zonas
 
 http://guifi.net/es/node/17711 Peninsula
@@ -41,5 +49,12 @@ http://es.wiki.guifi.net/w/index.php?title=Especial:CambiosRecientes&days=30&fro
 http://www.cplus.org/rmw/rmonline.html
 
 ### Marketing
+
 http://almul0.net/guifiles/fabz/
 http://aragon.guifi.net/documents/
+
+
+### Varios
+
+http://blackhold.nusepas.com/category/guifi-net/
+http://aragon.guifi.net/
